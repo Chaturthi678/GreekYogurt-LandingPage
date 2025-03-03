@@ -24,5 +24,3 @@ This is a beautifully designed landing page dedicated to **Greek Yogurt**, showc
 
 🎓 Created at SheCode Workshop
 This project was built as part of the SheCode Workshop, where I enhanced my frontend development skills and gained hands-on experience in web design.
-
-Let me know if you need any further changes! 🚀🔥
